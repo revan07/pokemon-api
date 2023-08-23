@@ -12,7 +12,7 @@ function data() {
            
            <div>
            <p>ID</p><br> 
-           <img src="${data.sprites.other["dream_world"].front_default}" alt="${data.name}">
+           <img src="${data.sprites.other.dream_world.front_default}" alt="${data.name}">
 
            </div>
 
